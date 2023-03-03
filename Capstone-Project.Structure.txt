@@ -1,0 +1,8 @@
+#Project Proposal
+#WireFrame Design
+#Lecturer Decision
+#Start With Backend(1Week Approx){
+|->Daily Push To Github
+}
+#Second & Third Week (FrontEnd)
+#Technologies:-mysql,JWT,bcrypt,vue3JS,nodeJS,expressJS
