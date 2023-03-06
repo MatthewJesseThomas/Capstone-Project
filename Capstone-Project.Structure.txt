@@ -5,4 +5,4 @@
 |->Daily Push To Github
 }
 #Second & Third Week (FrontEnd)
-#Technologies:-mysql,JWT,bcrypt,vue3JS,nodeJS,expressJS
+#Technologies:-mysql,JWT,bcrypt,vue3JS,nodeJS,expressJS,bootstrap,nodemon,lodash,cookie-parser,body-parser,cors,
